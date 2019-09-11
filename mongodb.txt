@@ -1,0 +1,1 @@
+db.user.insertMany([{"name":"Maria Brown", "email":"maria@gmail.com"}, {"name":"Alex Green", "email":"alex@gmai.com"}])
